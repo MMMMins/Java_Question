@@ -3,7 +3,7 @@ package 체육복;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class Question {
+public class Question3 {
     public static void main(String[] args) {
         System.out.println(solution(5, new int[]{2, 4}, new int[]{1, 3, 5}));
     }
